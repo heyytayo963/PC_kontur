@@ -30,7 +30,7 @@ fig.tight_layout()
 st.pyplot(fig)
 ```
 #### Output : 
-![horse](https://github.com/adityaputrawijaya/pt11_PengolahanCitra/assets/115687055/80756b17-fa58-4b4d-bacb-45c29c69d797)
+![ra](https://github.com/heyytayo963/PC_kontur/assets/115687740/ea18a547-5aea-4513-b46c-8bce12b7cf38)
 
 ## Menggunakan *Activate Contour*
 
@@ -84,4 +84,4 @@ st.pyplot(fig)
 ```
 
 #### Output : 
-![astronaout](https://github.com/adityaputrawijaya/pt11_PengolahanCitra/assets/115687055/b13dc57d-9c3c-4aff-b4be-c355e6ef112d)
+![ra1](https://github.com/heyytayo963/PC_kontur/assets/115687740/3cf65855-c224-40a3-a79d-9412da5339fe)
